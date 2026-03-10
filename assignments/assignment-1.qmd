@@ -204,7 +204,7 @@ rawpoll_mcmullin adjpoll_mcmullin  rawpoll_johnson  adjpoll_johnson            g
 
 # Assignment 1
 
-My first assignment has two parts.
+My first assignment has only the second part for now.
 
 ## (a)
 
